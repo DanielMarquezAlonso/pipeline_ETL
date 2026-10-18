@@ -1,0 +1,33 @@
+# Entornos virtuales de Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Control de versiones
+.git/
+.gitignore
+
+# Archivos de IDE
+.vscode/
+.idea/
+
+# Archivos de testing
+tests/
+pytest.ini
+
+# Documentación
+*.md
+docs/
+
+# Variables de entorno con secretos
+.env
+.env.local
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Output/resultados locales
+output/
+*.log
